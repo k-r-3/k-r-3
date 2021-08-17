@@ -5,7 +5,7 @@
 <ul>
   <li>I am 29 year programmer from Russia, Barnaul city</li>
   <li>I learn Java at <a href="https://job4j.ru/">Job4j</a> :mortar_board:</li>
-  <li>My Java expirience is 2 years :coffee:</li>
+  <li>My Java experience is 2 years :coffee:</li>
 </ul> 
 
 <hr>
