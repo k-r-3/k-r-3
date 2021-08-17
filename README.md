@@ -1,4 +1,4 @@
-### Hi there! My name is Roman, Welcome :wave:
+### Hi there! My name is Roman, welcome :wave:
 
 #### About Me
 
