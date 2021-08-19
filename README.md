@@ -10,8 +10,8 @@
 
 <ul>
   Contact :
-  <li><a href="ko3lovroman@gmail.com">Email</a></li>
-  <li><a href="rke19922802_1">Skype</a></li>
+  <li>Email : ko3lovroman@gmail.com</li>
+  <li>Skype : rke19922802_1</li>
 
 <hr>
 <p><b>Core technologies</b></p>
