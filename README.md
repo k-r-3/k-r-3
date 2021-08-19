@@ -8,6 +8,11 @@
   <li>My Java experience is 2 years :coffee:</li>
 </ul> 
 
+<ul>
+  Contact :
+  <li><a href="ko3lovroman@gmail.com">Email</a></li>
+  <li><a href="rke19922802_1">Skype</a></li>
+
 <hr>
 <p><b>Core technologies</b></p>
 <blockquote>
